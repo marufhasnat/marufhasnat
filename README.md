@@ -1,7 +1,7 @@
 ![Learning Programmer & Developer](https://i.postimg.cc/fLhCCbhM/Maruf-Hasnat.png)
 
 ### Hi there 👋, I'm Maruf Hasnat
-#### Learning Coder
+#### Student of Programming
 
 I’ve been blessed enough to have the pleasure of Learning Web Development and Programming Languages like C#, Java, JavaScript, Python, PHP for the last few years .
 
