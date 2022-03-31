@@ -27,7 +27,7 @@ I’ve been blessed enough to have the pleasure of Learning Web Development and 
 Skills: REACT / JS / HTML / CSS / Python / Java
 
 <div align="left">
-- 🔭 I’m currently working on Machine Learning 
+<p>- 🔭 I’m currently working on Machine Learning</p>
 - 🌱 I’m currently learning Django, Python 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about anything related to programming languages
