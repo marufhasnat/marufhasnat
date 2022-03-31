@@ -34,8 +34,8 @@ Skills: REACT / JS / HTML / CSS / Python / Java
     <p>- 💬 Ask me about anything related to programming languages</p>
   </div> 
 
-  <div align="right">
-    <img src="https://i.postimg.cc/QdyNHmFT/maruf.gif" width="250" alt="boy">
+  <div align="left">
+    <img src="https://i.postimg.cc/QdyNHmFT/maruf.gif" width="100%" alt="boy">
   </div>
 </div> 
 
