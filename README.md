@@ -23,9 +23,6 @@ I’ve been blessed enough to have the pleasure of Learning Web Development and 
 • React
 • Django
 
-
-Skills: REACT / JS / HTML / CSS / Python / Java
-
 <div>
   <div align="left">
     <p>- 🔭 I’m currently working on Machine Learning</p>
