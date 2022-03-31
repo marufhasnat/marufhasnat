@@ -34,7 +34,7 @@ Skills: REACT / JS / HTML / CSS / Python / Java
 </div> 
 
 <div align="right">
-  <img src="https://i.postimg.cc/QdyNHmFT/maruf.gif" alt="boy">
+  <img src="https://i.postimg.cc/QdyNHmFT/maruf.gif" width="250" alt="boy">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
