@@ -28,9 +28,9 @@ Skills: REACT / JS / HTML / CSS / Python / Java
 
 <div align="left">
 <p>- 🔭 I’m currently working on Machine Learning</p>
-- 🌱 I’m currently learning Django, Python 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about anything related to programming languages
+<p>- 🌱 I’m currently learning Django, Python</p>
+<p>- 👯 I’m looking to collaborate on GitHub</p> 
+<p>- 💬 Ask me about anything related to programming languages</p>
 </div> 
 
 <div align="right">
