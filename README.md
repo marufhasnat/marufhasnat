@@ -56,7 +56,7 @@ I’ve been blessed enough to have the pleasure of Learning Web Development and 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marufhasnat)  
 
-![GitHub metrics](https://metrics.lecoq.io/marufhasnat)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/marufhasnat)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=marufhasnat)  
 
