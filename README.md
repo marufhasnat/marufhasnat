@@ -1,5 +1,3 @@
-<img src="https://postimg.cc/06c72PQ4" alt="maruf">
-
 ### Hi there 👋, I'm Maruf Hasnat
 #### Creative, Professional & Dedicated About My Work
 
