@@ -1,4 +1,3 @@
-![Learning Programmer & Developer](https://i.postimg.cc/fLhCCbhM/Maruf-Hasnat.png)
 
 ### Hi there 👋, I'm Maruf Hasnat
 #### Creative, Professional & Dedicated About My Work
