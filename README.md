@@ -23,8 +23,8 @@ I’ve been blessed enough to have the pleasure of Learning Web Development and 
 
 <div>
   <div align="left">
-    <p>- 🔭 I’m currently working on Machine Learning</p>
-    <p>- 🌱 I’m currently learning Django, Python</p>
+    <p>- 🔭 I’m currently working on Web based framework</p>
+    <p>- 🌱 I’m currently learning New Technology</p>
     <p>- 👯 I’m looking to collaborate on GitHub</p> 
     <p>- 💬 Ask me about anything related to programming languages</p>
   </div> 
@@ -51,8 +51,6 @@ I’ve been blessed enough to have the pleasure of Learning Web Development and 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marufhasnat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marufhasnat&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marufhasnat)  
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/marufhasnat)   -->
 
