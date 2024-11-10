@@ -17,6 +17,7 @@ I’ve been blessed enough to have the pleasure of Learning Web Development and 
 
 <b>FrameWork</b>
 • Bootstrap
+• .NET Core
 • WordPress
 • React
 • Django
